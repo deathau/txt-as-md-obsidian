@@ -1,6 +1,6 @@
 {
   "name": "txt-as-md-obsidian",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Edit txt files as if they were markdown",
   "main": "main.js",
   "scripts": {
