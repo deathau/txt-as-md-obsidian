@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This plugin has been superceeded by [Unitade](https://github.com/Falcion/UnitadeOBSIDIAN), which allows not only opening .txt files as markdown by default, but allows you to specify any arbitrary extension to open as markdown. Check it out!
+
 # txt as md Obsidian plugin
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/txt-as-md-obsidian?style=for-the-badge&sort=semver)](https://github.com/deathau/txt-as-md-obsidian/releases/latest)
 ![GitHub All Releases](https://img.shields.io/github/downloads/deathau/txt-as-md-obsidian/total?style=for-the-badge)
